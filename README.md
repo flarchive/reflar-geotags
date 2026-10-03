@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of reflar/geotags.** Not for installation: use [Packagist](https://packagist.org/packages/reflar/geotags) or the [upstream repository](https://github.com/ReFlar/OSM-Geotags).
 
-**0** versions archived · Latest: [`0.1.9`](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.9) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**10** versions archived · Latest: [`0.1.9`](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.9) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-09-25 | `0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-09-25 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.1) |
+| `0.1.2` | 2018-09-25 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.2) |
+| `0.1.3` | 2018-09-26 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.3) |
+| `0.1.4` | 2018-09-26 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.4) |
+| `0.1.5` | 2018-09-26 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.5) |
+| `0.1.6` | 2018-09-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.6) |
+| `0.1.7` | 2018-09-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.7) |
+| `0.1.8` | 2018-09-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.8) |
+| `0.1.9` | 2018-09-27 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-geotags/tree/archive/v0.1.9) |
 
 Catalog entry: [packages/reflar-geotags.json](https://github.com/flarchive/archive-index/blob/main/packages/reflar-geotags.json)
 
